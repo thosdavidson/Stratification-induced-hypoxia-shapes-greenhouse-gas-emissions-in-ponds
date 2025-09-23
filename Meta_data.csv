@@ -1,0 +1,17 @@
+parameter name,parameter descrption ,unit
+Date,Date of sampling ,dd/mm/yyyy
+Pond_ID,Ponderful Unique pond identifier,
+Sample_type,Description of where in the water column sample was taken,
+N2O_tot,Dissolved concentration of nitrous oxide,mg/L N2O_N
+CH4_tot,Dissolved concentration of methane,mg/L CH4_C
+CO2_tot,Dissolved concentration of gas,mg/L CO2_C
+fN20_mg,diffusive gas flux of nitrous oxide,mg N2O_N m2 per day
+fCH4_mg,diffusive gas flux of methane,mg CH4_C m2 per day
+fCO2_mg,diffusive gas flux,mg CO2_C m2 per day
+CH4_bub_flux,Ebullitive flux of methane,mg CH4_C m2 per day
+Air_temp,Air temperature measured when sampling,oC
+Water.Temperature_Surface,Water Temperature of the surface water,oC
+Water.Temperature_Bottom,Water Temperature of the bottom water ,oC
+RDO.Concentration_Surface,surface water dissolved oxygen,mg /L
+RDO.Concentration_Bottom,bottom water dissolved oxygen,mg /L
+Delta_Temp,Difference between surface and bottom temperature ,oC
